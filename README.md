@@ -12,7 +12,8 @@ For instance, if the player pauses or exits the app and comes back, he/she will 
 
 Finally, I have also created an app icon for my app using ImageAssets functionality of android studio.
 
-Languages Used: Java, XML
+Languages Used: Java, XML.
+
 Things learnt : XML, JSON, Shared Preferences, Volley Library, Use of Singleton.
 
 Link for Video Demonstration: https://drive.google.com/file/d/1qAEhxGmOI32W4ERMj8aJfi2cYr1S2Y-f/view?usp=sharing
