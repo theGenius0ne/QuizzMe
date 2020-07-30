@@ -1,5 +1,6 @@
 # QuizzMe
 Hey there!
+
 Created my first android app using Java. As the name suggests, it is indeed a quiz application created just for fun and knowledge.
 It is a true and false game. For each Correct answer, player is rewarded +10 pts and for each Incorrect answer 5 points are deducted(i.e -5).
 
