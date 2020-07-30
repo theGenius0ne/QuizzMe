@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizzMe</string>
+    <string name="false_text">False</string>
+    <string name="true_text">True</string>
+    <string name="title_text">Let\'s Test You!</string>
+    <string name="previous_button">previous_button</string>
+    <string name="next_button">next_button</string>
+    <string name="count_of_question">0 out of 100</string>
+    <string name="correct">Correct :)</string>
+    <string name="wrong">Wrong :(</string>
+</resources>
