@@ -8,4 +8,7 @@
     <string name="count_of_question">0 out of 100</string>
     <string name="correct">Correct :)</string>
     <string name="wrong">Wrong :(</string>
+    <string name="hi_there">Hi There!</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
 </resources>
